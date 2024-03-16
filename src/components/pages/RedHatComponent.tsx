@@ -41,11 +41,15 @@ const RedHatComponent = () => {
               <li>Offers In-Person and Remote Job Opportunities</li>
               <li>Various locations around the world</li>
               <li>Great Place To Work 2022-23 Certified</li>
+              <li>No micromanagement</li>
+              <li>Strong Work/Life balance</li>
             </ul>
             <h4>Cons</h4>
             <ul>
               <li>Higher leadership isn't the best</li>
               <li>Fast paced environment</li>
+              <li>Unclear direction</li>
+              <li>Repetitive work</li>
             </ul>
             <h3>Resources</h3>
             <ul>
